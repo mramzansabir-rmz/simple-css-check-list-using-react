@@ -1,0 +1,16 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem; /* 18px */
+  background-color: #efefef;
+}
+
+html,
+body,
+section {
+  height: 100%;
+}
